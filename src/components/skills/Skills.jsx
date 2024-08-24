@@ -3,7 +3,7 @@ import { HiCheckBadge } from "react-icons/hi2";
 
 const SkillsCard = () => {
   return (
-    <div className=" mb-[5rem]" id="2">
+    <div className=" mb-[5rem] p-5" id="2">
       <h2 className="text-3xl font-semibold text-center mb-2">Skills</h2>
       <p className="block text-lg text-center text-gray-500 mb-8">Technical lvl</p>
 

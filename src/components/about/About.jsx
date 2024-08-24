@@ -6,7 +6,7 @@ import CV from "../../assets/CV.pdf";
 const About = () => {
   return (
     <section className="p-6 max-w-screen-lg mx-auto mb-[3rem] lg:mb-[7rem] mt-[7rem] " id="1">
-      <h2 className="text-3xl font-bold text-center mb-[3rem]">About Me</h2>
+      <h2 className="text-3xl font-bold text-center mb-[3rem] ">About Me</h2>
       
 
       <div className="flex flex-col items-center lg:flex-row lg:items-center lg:justify-around  ">
@@ -18,9 +18,9 @@ const About = () => {
           />
         </div>
 
-        <div className="flex flex-col items-center lg:ml-4">
+        <div className="flex flex-col items-center  ">
           <Info />
-          <p className="text-gray-700 mt-6 mb-8">
+          <p className="text-gray-700 mt-6 mb-8 ">
             I am a solution developer who loves to play with frontend tools.
           </p>
           <a
