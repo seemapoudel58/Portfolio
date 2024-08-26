@@ -89,9 +89,12 @@ const Qualification = () => {
           >
             <div className="grid grid-cols-[1fr_max-content_1fr] gap-x-6 mb-8">
               <div className="ml-4 lg:ml-[7rem]">
-                <h3 className="text-lg md:text-xl font-medium">Inspire</h3>
+                <h3 className="text-lg md:text-xl font-medium">
+                  {" "}
+                  AG Member | Solutions Developer
+                </h3>
                 <span className="block text-sm text-gray-500 mb-1">
-                  AG Member | Solution Developer
+                  Inspire
                 </span>
                 <div className="flex items-center text-sm text-gray-500">
                   <HiOutlineCalendar className="mr-2" />
