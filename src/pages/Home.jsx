@@ -3,7 +3,7 @@ import About from "../components/about/About";
 import Qualification from "../components/qualification/Qualification";
 import SkillsCard from "../components/skills/Skills";
 import ContactCard from "../components/contact/Contact";
-import Navbar from "../components/navbar/navbar";
+import Navbar from "../components/navbar/Navbar";
 import Projects from "../components/projects/Projects";
 
 const Home = () => {
